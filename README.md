@@ -1,2 +1,2 @@
-# vue-element-admin
-elementUI样式的一个管理平台，主要使用模板template然后对Vue中的语法进行一个覆盖使用示例
+# vue-admin
+一个管理平台，主要使用模板`template`然后对`Vue`中的语法进行一个覆盖使用示例
